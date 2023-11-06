@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORKSPACE - C#\\ConsoleApp12\\ConsoleApp12\\ConsoleApp12.csproj",
+      "projectUniqueName": "C:\\WORKSPACE - C#\\Class\\ConsoleApp12\\ConsoleApp12.csproj",
       "projectName": "ConsoleApp12",
-      "projectPath": "C:\\WORKSPACE - C#\\ConsoleApp12\\ConsoleApp12\\ConsoleApp12.csproj",
+      "projectPath": "C:\\WORKSPACE - C#\\Class\\ConsoleApp12\\ConsoleApp12.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\WORKSPACE - C#\\ConsoleApp12\\ConsoleApp12\\obj\\",
+      "outputPath": "C:\\WORKSPACE - C#\\Class\\ConsoleApp12\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

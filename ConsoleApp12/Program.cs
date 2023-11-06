@@ -27,7 +27,7 @@ class Program
         motorcycle.CheckSpeed(100);
 
 
-        var Mammadova = new user("Leyla", "Mammad", "Leylamammad", 47);
+        var Mammadova = new user("Leyla", "Mammad", "ruslan" , 47);
         Mammadova.PrintInfo();
         Mammadova.IsPasswordValid("Leylamammad");
     }

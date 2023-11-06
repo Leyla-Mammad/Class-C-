@@ -12,3 +12,17 @@ C:\WORKSPACE - C#\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\refint\ConsoleApp12
 C:\WORKSPACE - C#\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.pdb
 C:\WORKSPACE - C#\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.genruntimeconfig.cache
 C:\WORKSPACE - C#\ConsoleApp12\ConsoleApp12\obj\Debug\net7.0\ref\ConsoleApp12.dll
+C:\WORKSPACE - C#\Class\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.exe
+C:\WORKSPACE - C#\Class\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.deps.json
+C:\WORKSPACE - C#\Class\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.runtimeconfig.json
+C:\WORKSPACE - C#\Class\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.dll
+C:\WORKSPACE - C#\Class\ConsoleApp12\bin\Debug\net7.0\ConsoleApp12.pdb
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.AssemblyInfo.cs
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.dll
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\refint\ConsoleApp12.dll
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.pdb
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\ConsoleApp12.genruntimeconfig.cache
+C:\WORKSPACE - C#\Class\ConsoleApp12\obj\Debug\net7.0\ref\ConsoleApp12.dll
